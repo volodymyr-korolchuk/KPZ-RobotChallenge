@@ -1,0 +1,35 @@
+# Ignore Visual Studio files and directories
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore ReSharper files
+_ReSharper.*
+
+# Ignore NuGet package directory
+packages/
+
+# Ignore build results
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
+# Ignore Visual Studio project files
+*.csproj.user
+*.suo
+*.user
+*.suo
+*.sln.docstates
+*.suo
+*.user
+
+# Ignore test results
+[Tt]est[Rr]esult*/
+[Ss]tats*/
+
+# Ignore NUnit test output
+*.TestResult.xml
